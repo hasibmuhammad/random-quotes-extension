@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    min-width: 400px;
+    min-height: 400px;
+}
+
+body h2 {
+    text-align: center;
+}
+
+.quote {
+
+    border-radius: 5px;;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: rgb(234, 216, 216);
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.quote figure {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#author {
+    text-align: right;
+}
+
+footer {
+    margin-top: 5rem;
+    text-align: center; 
+}

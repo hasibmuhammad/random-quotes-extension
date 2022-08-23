@@ -1,0 +1,9 @@
+{
+    "name": "Random Quotes",
+    "version": "1.0.0",
+    "description": "It will fetch random quotes and will show it on the popup.",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
